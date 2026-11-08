@@ -40,3 +40,9 @@ h2{
     font-size: 28px;
     color: #1e293b;
 }
+
+.buttons{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+}
