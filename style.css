@@ -80,3 +80,7 @@ button:hover{
 .clear:hover{
     background-color: #b91c1c;
 }
+
+.delete{
+    background-color: #ea580c;
+}
