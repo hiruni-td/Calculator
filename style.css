@@ -67,3 +67,8 @@ button:hover{
 .operator{
     background-color: #2563eb;
 }
+
+.operator:hover{
+    background-color: #1d4edB;
+
+}
