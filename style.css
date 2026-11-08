@@ -84,3 +84,7 @@ button:hover{
 .delete{
     background-color: #ea580c;
 }
+
+.delete:hover{
+    background-color: #c2410c;
+}
