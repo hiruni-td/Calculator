@@ -76,3 +76,7 @@ button:hover{
 .clear{
     background-color: #dc2626;
 }
+
+.clear:hover{
+    background-color: #b91c1c;
+}
