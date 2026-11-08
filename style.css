@@ -92,3 +92,7 @@ button:hover{
 .equals{
     background-color: #16a34a;
 }
+
+.equals:hover{
+    background-color: #15803d;
+}
